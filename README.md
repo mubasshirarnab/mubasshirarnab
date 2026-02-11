@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching**
 
-- 🌱 I’m currently learning **I’m currently learning: Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques.**
+- 🌱 I’m currently learning ** Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques.**
 
 - 👨‍💻 All of my projects are available at [https://mubasshir-ahmed-arnab.netlify.app/](https://mubasshir-ahmed-arnab.netlify.app/)
 
