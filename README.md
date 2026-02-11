@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasshirarnab&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshirarnab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasshirarnab" alt="mubasshirarnab" /></a> </p>
-
 - 🔭 I’m currently working on **Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching**
 
 - 🌱 I’m currently learning **I’m currently learning: Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques.**
