@@ -1,33 +1,82 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
-)
-<h1 align="center">Hi 👋, I'm Mubasshir Ahmed Arnab</h1>
-<h3 align="center">CSE Undergraduate | AI & ML Enthusiast | Problem Solver | Project Leader</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"</img>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasshirarnab&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshirarnab" /> </p>
-
-- 🔭 I’m currently working on **Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching**
-
-- 🌱 I’m currently learning ** Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques.**
-
-- 👨‍💻 All of my projects are available at [https://mubasshir-ahmed-arnab.netlify.app/](https://mubasshir-ahmed-arnab.netlify.app/)
-
-- 💬 Ask me about **Data Structures & Algorithms, Machine Learning, Neural Networks, Competitive Programming, and AI-based System Development.**
-
-- 📫 How to reach me **arnab0574@gmail.com**
-
-  <h3 align="left">Connect with me:</h3>
-    <p align="left">
-    <a href="https://twitter.com/arnabmahdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabmahdee" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mubasshir-ahmed-arnab-636228247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubasshir-ahmed-arnab-636228247" height="30" width="40" /></a>
-    <a href="https://fb.com/mahdee.arnab.0574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahdee.arnab.0574" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/mubasshirarnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mubasshirarnab" height="30" width="40" /></a>
-    </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasshirarnab&" alt="mubasshirarnab" /></p>
+  
+  # 👋 Hi, I'm Mubasshir Ahmed Arnab
+  
+  ### CSE Undergraduate | AI & ML Enthusiast | Problem Solver | Project Leader
+  
+  <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mubasshirarnab&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshirarnab" />
+  </p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="280px"/>
+
+- 🔭 **Currently Working On:** Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching
+
+- 🌱 **Currently Learning:** Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques
+
+- 💬 **Ask Me About:** Data Structures & Algorithms, Machine Learning, Neural Networks, Competitive Programming, and AI-based System Development
+
+- 📫 **Reach Me At:** [arnab0574@gmail.com](mailto:arnab0574@gmail.com)
+
+- 🌐 **Portfolio:** [mubasshir-ahmed-arnab.netlify.app](https://mubasshir-ahmed-arnab.netlify.app/)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/arnabmahdee" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/mubasshir-ahmed-arnab-636228247" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/mahdee.arnab.0574" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mubasshirarnab" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <!-- Add more tool icons as needed -->
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubasshirarnab&" alt="mubasshirarnab" />
+</div>
+
+---
+
+## 💡 Key Skills & Expertise
+
+- **AI & Machine Learning:** Deep Learning, Neural Networks, Model Optimization
+- **Programming:** Problem Solving, Competitive Programming, Data Structures & Algorithms
+- **Project Leadership:** Team Coordination, System Development
+- **Emerging Tech:** Model Deployment, Reinforcement Learning
+
+---
+
+<div align="center">
+  <p><i>Feel free to reach out for collaborations or just a friendly hello! 🚀</i></p>
 </div>
