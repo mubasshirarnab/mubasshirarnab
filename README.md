@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
 )
 <h1 align="center">Hi 👋, I'm Mubasshir Ahmed Arnab</h1>
-<h4 align="center">CSE Undergraduate | AI & ML Engineer | Problem Solver | Project Leader</h4>
+<h2 align="center">CSE Undergraduate | AI & ML Engineer | Problem Solver | Project Leader</h2>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="280px"/>
 
