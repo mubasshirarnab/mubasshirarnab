@@ -2,19 +2,17 @@
 )
 <h1 align="center">Hi 👋, I'm Mubasshir Ahmed Arnab</h1>
 <h3 align="center">CSE Undergraduate | AI & ML Enthusiast | Problem Solver | Project Leader</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"</img>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="280px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasshirarnab&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshirarnab" /> </p>
+- 🔭 **Currently Working On:** Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching
 
-- 🔭 I’m currently working on **Optimizing Large-Context Language Models: A Reinforcement Learning Approach to Dynamic Token Routing and Selective KV-Caching**
+- 🌱 **Currently Learning:** Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques
 
-- 🌱 I’m currently learning ** Advanced Neural Networks, Computer Vision, AI model deployment and Model Optimization Techniques.**
+- 💬 **Ask Me About:** Data Structures & Algorithms, Machine Learning, Neural Networks, Competitive Programming, and AI-based System Development
 
-- 👨‍💻 All of my projects are available at [https://mubasshir-ahmed-arnab.netlify.app/](https://mubasshir-ahmed-arnab.netlify.app/)
+- 📫 **Reach Me At:** [arnab0574@gmail.com](mailto:arnab0574@gmail.com)
 
-- 💬 Ask me about **Data Structures & Algorithms, Machine Learning, Neural Networks, Competitive Programming, and AI-based System Development.**
-
-- 📫 How to reach me **arnab0574@gmail.com**
+- 🌐 **Portfolio:** [mubasshir-ahmed-arnab.netlify.app](https://mubasshir-ahmed-arnab.netlify.app/)
 
 
   <h3 align="left">Connect with me:</h3>
